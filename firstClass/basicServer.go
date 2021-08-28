@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	// Give a behavior to defaultServiceMux (default HTTP request handler)
+	// Give a behavior to defaultServiceMux (default HTTP request handlers)
 	http.HandleFunc("/", func(res http.ResponseWriter, req *http.Request) {
 		log.Println("Hello :)")
 

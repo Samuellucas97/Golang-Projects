@@ -1,7 +1,8 @@
+### First steps in Go
 
-I'm using this repository give my first steps into Golang. 
+I'm using this repository to give my first steps into Golang. I'm creating API REST, gRPC, etc..
 
-## Essential Commands
+### Essential Commands
 
 
 |          Action          |           Command           |
@@ -12,7 +13,7 @@ I'm using this repository give my first steps into Golang.
 
 
 
-## References
+### References
 
 [Nic Jackson - Building Microservices with Go
 ](https://youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
