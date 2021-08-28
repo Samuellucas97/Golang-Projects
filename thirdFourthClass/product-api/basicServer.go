@@ -1,14 +1,17 @@
 package main
 
 import (
-	"awesomeProject/thirdClass/product-api/handlers"
+	"awesomeProject/thirdFourthClass/product-api/handlers"
 	"context"
+	//"github.com/nicholasjackson/env"
 	"log"
 	"net/http"
 	"os"
 	"os/signal"
 	"time"
 )
+
+//var binAddress = env.String("BIND_ADDRESS", false, "localhost:9090", "Bind address for the server")
 
 func main() {
 
